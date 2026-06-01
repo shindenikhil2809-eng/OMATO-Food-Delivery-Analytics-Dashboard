@@ -108,11 +108,11 @@ This enables cross-filtering and advanced business analysis through Power BI rel
 
 ### Dashboard Overview
 
-![Overview](Images/dashboard1.png)
+![Overview](OMATO_Dashboard.png)
 
 ### Bottom Analysis
 
-![Bottom Analysis](Images/dashboard2.png)
+![Bottom Analysis](BottomAnalysis_Dashboard.png)
 
 ---
 
@@ -138,7 +138,7 @@ OMATO-PowerBI-Dashboard/
 
 │ ├── OMATO_Dashboard.png
 
-│ └── Bottom Analysis_Dashboard.png
+│ └── BottomAnalysis_Dashboard.png
 
 └── README.md
 
